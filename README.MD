@@ -15,3 +15,7 @@ This is my first attempt using Git and GitHub Respository for my capstone 2024
 
 *Testing on tcl file* <br>
 command use source <tcl_file_name>
+
+# For collaborative REPO
+1. create a REPO and invite
+2. 
