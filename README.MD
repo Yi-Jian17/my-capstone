@@ -13,5 +13,5 @@ This is my first attempt using Git and GitHub Respository for my capstone 2024
 3. git commit -m "<user_cmmt>"
 4. git push (to update the file on GitHub)
 
-*Testing on tcl file*
+*Testing on tcl file* <br>
 command use source <tcl_file_name>
